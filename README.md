@@ -4,11 +4,6 @@
 
 ### CG Technical Director • Pipeline TD • Technical Artist • Full-Stack Developer
 
-<p>
-  <a href="https://linkedin.com/in/elawady" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" height="36" alt="LinkedIn" /></a>
-  <a href="mailto:elawady.ok@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Email" /></a>
-</p>
-
 **Building production-ready tools for animation, procedural workflows, pipeline automation, and scalable creative software.**
 
 </div>
@@ -25,75 +20,73 @@ Before focusing on CG pipeline development, I built production web and mobile ap
 
 ---
 
-## Core Focus
-
-- Pipeline engineering and workflow automation for 3D production.
-- Maya and Houdini tools for artists, lighting, layout, and procedural workflows.
-- Desktop tools using Python, PySide, C++, and Qt.
-- Backend systems and APIs for creative tools and production pipelines.
-- Procedural geometry, rendering experiments, and technical art systems.
-
----
-
 ## Technical Toolkit
 
 ### CG, DCC & Pipeline
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white" alt="Autodesk Maya" />
-  <img src="https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white" alt="Houdini" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
-  <img src="https://img.shields.io/badge/USD-111111?style=for-the-badge&logo=pixar&logoColor=white" alt="USD" />
+<p align="left">
+  <img src="https://badgen.net/badge/_/Maya/222?icon=autodeskmaya&labelColor=37A5CC&label=&scale=1.3" alt="Autodesk Maya" />
+  <img src="https://badgen.net/badge/_/Houdini/222?icon=houdini&labelColor=FF4713&label=&scale=1.3" alt="Houdini" />
+  <img src="https://badgen.net/badge/_/Blender/222?icon=blender&labelColor=F5792A&label=&scale=1.3" alt="Blender" />
+  <img src="https://badgen.net/badge/_/Unreal%20Engine/222?icon=unrealengine&labelColor=0E1128&label=&scale=1.3" alt="Unreal Engine" />
+  <img src="https://badgen.net/badge/_/Qt/222?icon=qt&labelColor=41CD52&label=&scale=1.3" alt="Qt" />
+  <img src="https://badgen.net/badge/%20%20/USD/222?labelColor=111111&scale=1.3" alt="USD" />
 </p>
 
 ### Programming & Tool Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,dart,bash" />
+<p align="left">
+  <img src="https://badgen.net/badge/_/Python/222?icon=python&labelColor=3776AB&label=&scale=1.3" alt="Python" />
+  <img src="https://badgen.net/badge/_/C++/222?icon=cplusplus&labelColor=00599C&label=&scale=1.3" alt="C++" />
+  <img src="https://badgen.net/badge/_/JavaScript/222?icon=javascript&labelColor=F7DF1E&label=&scale=1.3" alt="JavaScript" />
+  <img src="https://badgen.net/badge/_/TypeScript/222?icon=typescript&labelColor=3178C6&label=&scale=1.3" alt="TypeScript" />
+  <img src="https://badgen.net/badge/_/Dart/222?icon=dart&labelColor=0175C2&label=&scale=1.3" alt="Dart" />
+  <img src="https://badgen.net/badge/_/Bash/222?icon=gnu-bash&labelColor=4EAA25&label=&scale=1.3" alt="Bash" />
 </p>
 
 ### Web, Mobile & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,vue,nuxt,flutter,postgresql,redis,tailwind" />
+<p align="left">
+  <img src="https://badgen.net/badge/_/Django/222?icon=django&labelColor=092E20&label=&scale=1.3" alt="Django" />
+  <img src="https://badgen.net/badge/_/Vue/222?icon=vuedotjs&labelColor=4FC08D&label=&scale=1.3" alt="Vue.js" />
+  <img src="https://badgen.net/badge/_/Nuxt/222?icon=nuxt&labelColor=00C58E&label=&scale=1.3" alt="Nuxt" />
+  <img src="https://badgen.net/badge/_/Flutter/222?icon=flutter&labelColor=02569B&label=&scale=1.3" alt="Flutter" />
+  <img src="https://badgen.net/badge/_/PostgreSQL/222?icon=postgresql&labelColor=4169E1&label=&scale=1.3" alt="PostgreSQL" />
+  <img src="https://badgen.net/badge/_/Redis/222?icon=redis&labelColor=DC382D&label=&scale=1.3" alt="Redis" />
+  <img src="https://badgen.net/badge/_/Tailwind/222?icon=tailwindcss&labelColor=06B6D4&label=&scale=1.3" alt="Tailwind" />
 </p>
 
 ### DevOps & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,cloudflare" />
+<p align="left">
+  <img src="https://badgen.net/badge/_/Git/222?icon=git&labelColor=F05032&label=&scale=1.3" alt="Git" />
+  <img src="https://badgen.net/badge/_/GitHub/222?icon=github&labelColor=181717&label=&scale=1.3" alt="GitHub" />
+  <img src="https://badgen.net/badge/_/Docker/222?icon=docker&labelColor=2496ED&label=&scale=1.3" alt="Docker" />
+  <img src="https://badgen.net/badge/%20%20/AWS/222?labelColor=232F3E&scale=1.3" alt="AWS" />
+  <img src="https://badgen.net/badge/_/Linux/222?icon=linux&labelColor=FCC624&label=&scale=1.3" alt="Linux" />
+  <img src="https://badgen.net/badge/_/Cloudflare/222?icon=cloudflare&labelColor=F38020&label=&scale=1.3" alt="Cloudflare" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### FrameCore  
-**C++ / Qt6 / Desktop Tools**
+### [FrameCore](#)  
+**C++ / Qt6 / Desktop Tools**  
+High-performance desktop application built with C++ and Qt6, focused on fast interaction, clean UI architecture, and production-style workflows for monitoring render farm workloads.
 
-High-performance desktop application built with C++ and Qt6, focused on fast interaction, clean UI architecture, and production-style workflows.
-
-### archsun  
-**Python / PySide / Maya / Arnold**
-
+### [ArchSun](#)  
+**Python / PySide / Maya / Arnold**  
 Procedural daylight setup tool for Autodesk Maya that generates physically accurate Arnold lighting rigs using real-world time and geolocation data.
 
-### cpu-sdf-raymarcher  
-**C++ / Rendering / Procedural Geometry**
-
+### [cpu-sdf-raymarcher](#)  
+**C++ / Rendering / Procedural Geometry**  
 CPU-based Signed Distance Field raymarching engine exploring procedural geometry, mathematical rendering, and low-level graphics concepts.
 
 ---
 
 ## Currently Focused On
 
-- Pipeline tools for animation, games, and VFX.
-- Maya and Houdini automation.
-- Procedural workflows and USD-based pipelines.
-- Artist-facing desktop tools.
-- Rendering, lighting, and technical art systems.
+- Pipeline engineering and workflow automation for 3D production.
+- Maya and Houdini tools for artists, lighting, layout, and procedural workflows.
+- Procedural geometry, rendering experiments, and USD-based pipelines.
+- Desktop tools and APIs for creative tools.
 
 ---
 
@@ -103,7 +96,7 @@ CPU-based Signed Distance Field raymarching engine exploring procedural geometry
 
 <p>
   <a href="mailto:elawady.ok@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Contact Me" />
+    <img src="https://badgen.net/badge/_/Contact%20Me/D14836?icon=gmail&labelColor=D14836&label=&scale=1.3" alt="Contact Me" />
   </a>
 </p>
 
