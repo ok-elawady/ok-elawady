@@ -24,43 +24,43 @@ Before focusing on CG pipeline development, I built production web and mobile ap
 
 ### CG, DCC & Pipeline
 <p align="left">
-  <img src="https://badgen.net/badge/_/Maya/222?icon=autodeskmaya&labelColor=37A5CC&label=&scale=1.3" alt="Autodesk Maya" />
-  <img src="https://badgen.net/badge/_/Houdini/222?icon=houdini&labelColor=FF4713&label=&scale=1.3" alt="Houdini" />
-  <img src="https://badgen.net/badge/_/Blender/222?icon=blender&labelColor=F5792A&label=&scale=1.3" alt="Blender" />
-  <img src="https://badgen.net/badge/_/Unreal%20Engine/222?icon=unrealengine&labelColor=0E1128&label=&scale=1.3" alt="Unreal Engine" />
-  <img src="https://badgen.net/badge/_/Qt/222?icon=qt&labelColor=41CD52&label=&scale=1.3" alt="Qt" />
-  <img src="https://badgen.net/badge/%20%20/USD/222?labelColor=111111&scale=1.3" alt="USD" />
+  <img src="https://badgen.net/badge/_/Maya/222?icon=autodeskmaya&labelColor=37A5CC&label=&scale=1.2" alt="Autodesk Maya" />
+  <img src="https://badgen.net/badge/_/Houdini/222?icon=houdini&labelColor=FF4713&label=&scale=1.2" alt="Houdini" />
+  <img src="https://badgen.net/badge/_/Blender/222?icon=blender&labelColor=F5792A&label=&scale=1.2" alt="Blender" />
+  <img src="https://badgen.net/badge/_/Unreal%20Engine/222?icon=unrealengine&labelColor=0E1128&label=&scale=1.2" alt="Unreal Engine" />
+  <img src="https://badgen.net/badge/_/Qt/222?icon=qt&labelColor=41CD52&label=&scale=1.2" alt="Qt" />
+  <img src="https://badgen.net/badge/_/USD/222?labelColor=111111&label=&scale=1.2" alt="USD" />
 </p>
 
 ### Programming & Tool Development
 <p align="left">
-  <img src="https://badgen.net/badge/_/Python/222?icon=python&labelColor=3776AB&label=&scale=1.3" alt="Python" />
-  <img src="https://badgen.net/badge/_/C++/222?icon=cplusplus&labelColor=00599C&label=&scale=1.3" alt="C++" />
-  <img src="https://badgen.net/badge/_/JavaScript/222?icon=javascript&labelColor=7A6A00&label=&scale=1.3" alt="JavaScript" />
-  <img src="https://badgen.net/badge/_/TypeScript/222?icon=typescript&labelColor=3178C6&label=&scale=1.3" alt="TypeScript" />
-  <img src="https://badgen.net/badge/_/Dart/222?icon=dart&labelColor=0175C2&label=&scale=1.3" alt="Dart" />
-  <img src="https://badgen.net/badge/_/Bash/222?icon=gnu-bash&labelColor=4EAA25&label=&scale=1.3" alt="Bash" />
+  <img src="https://badgen.net/badge/_/Python/222?icon=python&labelColor=3776AB&label=&scale=1.2" alt="Python" />
+  <img src="https://badgen.net/badge/_/C++/222?icon=cplusplus&labelColor=00599C&label=&scale=1.2" alt="C++" />
+  <img src="https://badgen.net/badge/_/JavaScript/222?icon=javascript&labelColor=7A6A00&label=&scale=1.2" alt="JavaScript" />
+  <img src="https://badgen.net/badge/_/TypeScript/222?icon=typescript&labelColor=3178C6&label=&scale=1.2" alt="TypeScript" />
+  <img src="https://badgen.net/badge/_/Dart/222?icon=dart&labelColor=0175C2&label=&scale=1.2" alt="Dart" />
+  <img src="https://badgen.net/badge/_/Bash/222?icon=gnu-bash&labelColor=4EAA25&label=&scale=1.2" alt="Bash" />
 </p>
 
 ### Web, Mobile & Backend
 <p align="left">
-  <img src="https://badgen.net/badge/_/Django/222?icon=django&labelColor=092E20&label=&scale=1.3" alt="Django" />
-  <img src="https://badgen.net/badge/_/Vue/222?icon=vuedotjs&labelColor=4FC08D&label=&scale=1.3" alt="Vue.js" />
-  <img src="https://badgen.net/badge/_/Nuxt/222?icon=nuxt&labelColor=00C58E&label=&scale=1.3" alt="Nuxt" />
-  <img src="https://badgen.net/badge/_/Flutter/222?icon=flutter&labelColor=02569B&label=&scale=1.3" alt="Flutter" />
-  <img src="https://badgen.net/badge/_/PostgreSQL/222?icon=postgresql&labelColor=4169E1&label=&scale=1.3" alt="PostgreSQL" />
-  <img src="https://badgen.net/badge/_/Redis/222?icon=redis&labelColor=DC382D&label=&scale=1.3" alt="Redis" />
-  <img src="https://badgen.net/badge/_/Tailwind/222?icon=tailwindcss&labelColor=06B6D4&label=&scale=1.3" alt="Tailwind" />
+  <img src="https://badgen.net/badge/_/Django/222?icon=django&labelColor=092E20&label=&scale=1.2" alt="Django" />
+  <img src="https://badgen.net/badge/_/Vue/222?icon=vuedotjs&labelColor=4FC08D&label=&scale=1.2" alt="Vue.js" />
+  <img src="https://badgen.net/badge/_/Nuxt/222?icon=nuxt&labelColor=00C58E&label=&scale=1.2" alt="Nuxt" />
+  <img src="https://badgen.net/badge/_/Flutter/222?icon=flutter&labelColor=02569B&label=&scale=1.2" alt="Flutter" />
+  <img src="https://badgen.net/badge/_/PostgreSQL/222?icon=postgresql&labelColor=4169E1&label=&scale=1.2" alt="PostgreSQL" />
+  <img src="https://badgen.net/badge/_/Redis/222?icon=redis&labelColor=DC382D&label=&scale=1.2" alt="Redis" />
+  <img src="https://badgen.net/badge/_/Tailwind/222?icon=tailwindcss&labelColor=06B6D4&label=&scale=1.2" alt="Tailwind" />
 </p>
 
 ### DevOps & Infrastructure
 <p align="left">
-  <img src="https://badgen.net/badge/_/Git/222?icon=git&labelColor=F05032&label=&scale=1.3" alt="Git" />
-  <img src="https://badgen.net/badge/_/GitHub/222?icon=github&labelColor=181717&label=&scale=1.3" alt="GitHub" />
-  <img src="https://badgen.net/badge/_/Docker/222?icon=docker&labelColor=2496ED&label=&scale=1.3" alt="Docker" />
-  <img src="https://badgen.net/badge/%20%20/AWS/222?labelColor=232F3E&scale=1.3" alt="AWS" />
-  <img src="https://badgen.net/badge/_/Linux/222?icon=linux&labelColor=856404&label=&scale=1.3" alt="Linux" />
-  <img src="https://badgen.net/badge/_/Cloudflare/222?icon=cloudflare&labelColor=F38020&label=&scale=1.3" alt="Cloudflare" />
+  <img src="https://badgen.net/badge/_/Git/222?icon=git&labelColor=F05032&label=&scale=1.2" alt="Git" />
+  <img src="https://badgen.net/badge/_/GitHub/222?icon=github&labelColor=181717&label=&scale=1.2" alt="GitHub" />
+  <img src="https://badgen.net/badge/_/Docker/222?icon=docker&labelColor=2496ED&label=&scale=1.2" alt="Docker" />
+  <img src="https://badgen.net/badge/_/Linux/222?icon=linux&labelColor=856404&label=&scale=1.2" alt="Linux" />
+  <img src="https://badgen.net/badge/_/Cloudflare/222?icon=cloudflare&labelColor=F38020&label=&scale=1.2" alt="Cloudflare" />
+  <img src="https://badgen.net/badge/_/AWS/222?labelColor=232F3E&label=&scale=1.2" alt="AWS" />
 </p>
 
 ---
@@ -96,7 +96,7 @@ CPU-based Signed Distance Field raymarching engine exploring procedural geometry
 
 <p>
   <a href="mailto:elawady.ok@gmail.com">
-    <img src="https://badgen.net/badge/_/Contact%20Me/D14836?icon=gmail&labelColor=D14836&label=&scale=1.3" alt="Contact Me" />
+    <img src="https://badgen.net/badge/_/Contact%20Me/D14836?icon=gmail&labelColor=D14836&label=&scale=1.2" alt="Contact Me" />
   </a>
 </p>
 
