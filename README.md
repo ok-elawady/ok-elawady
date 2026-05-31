@@ -67,6 +67,10 @@ Before focusing on CG pipeline development, I built production web and mobile ap
 
 ## Featured Projects
 
+### [Maya SceneQC](https://github.com/ok-elawady/maya-scene-qc)  
+**Python / PySide / Maya / AI Pipeline**  
+AI-powered quality control and asset validation tool for Autodesk Maya that bridges deterministic technical pipeline checks with multimodal AI visual review to enforce rigorous production and delivery standards.
+
 ### [FrameCore](https://github.com/ok-elawady/FrameCore)  
 **C++ / Qt6 / Desktop Tools**  
 High-performance desktop application built with C++ and Qt6, focused on fast interaction, clean UI architecture, and production-style workflows for monitoring render farm workloads.
