@@ -1,6 +1,6 @@
 <div align="center">
 
-# OMAR KHALED ELAWADY
+# OMAR ELAWADY
 
 ### CG Technical Director • Pipeline TD • Technical Artist • Full-Stack Developer
 
@@ -45,6 +45,8 @@ Before focusing on CG pipeline development, I built production web and mobile ap
 ### Web, Mobile & Backend
 <p align="left">
   <img src="https://badgen.net/badge/_/Django/222?icon=django&labelColor=092E20&label=&scale=1.2" alt="Django" />
+  <img src="https://badgen.net/badge/_/FastAPI/222?icon=fastapi&labelColor=009688&label=&scale=1.2" alt="FastAPI" />
+  <img src="https://badgen.net/badge/_/React/222?icon=react&labelColor=61DAFB&label=&scale=1.2" alt="React" />
   <img src="https://badgen.net/badge/_/Vue/222?icon=vuedotjs&labelColor=4FC08D&label=&scale=1.2" alt="Vue.js" />
   <img src="https://badgen.net/badge/_/Nuxt/222?icon=nuxt&labelColor=00C58E&label=&scale=1.2" alt="Nuxt" />
   <img src="https://badgen.net/badge/_/Flutter/222?icon=flutter&labelColor=02569B&label=&scale=1.2" alt="Flutter" />
@@ -67,6 +69,10 @@ Before focusing on CG pipeline development, I built production web and mobile ap
 
 ## Featured Projects
 
+### [RenderHive](https://github.com/ok-elawady/RenderHive)  
+**Django / Next.js / PySide / FastAPI / AI**  
+A distributed render management system and orchestration monorepo. Features a React/Next.js frontend, PySide worker nodes for Maya integration, and an AI scheduler utilizing local LLMs (llama.cpp) to dynamically balance workloads based on real-time hardware metrics.
+
 ### [Maya SceneQC](https://github.com/ok-elawady/maya-scene-qc)  
 **Python / PySide / Maya / AI Pipeline**  
 AI-powered quality control and asset validation tool for Autodesk Maya that bridges deterministic technical pipeline checks with multimodal AI visual review to enforce rigorous production and delivery standards.
@@ -78,10 +84,6 @@ High-performance desktop application built with C++ and Qt6, focused on fast int
 ### [ArchSun](https://github.com/ok-elawady/ArchSun)  
 **Python / PySide / Maya / Arnold**  
 Procedural daylight setup tool for Autodesk Maya that generates physically accurate Arnold lighting rigs using real-world time and geolocation data.
-
-### [cpu-sdf-raymarcher](https://github.com/ok-elawady/cpu-sdf-raymarcher)  
-**C++ / Rendering / Procedural Geometry**  
-CPU-based Signed Distance Field raymarching engine exploring procedural geometry, mathematical rendering, and low-level graphics concepts.
 
 ---
 
