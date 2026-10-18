@@ -70,9 +70,15 @@ I am a software engineer with a dual focus: I build massive, high-availability w
 
 ## 💻 Web, Backend & AI Platforms
 
-### [RenderHive](https://github.com/ok-elawady/RenderHive)  
-**Django / Next.js / FastAPI / Local LLMs**  
-A distributed orchestration system featuring a React/Next.js frontend and an AI scheduler utilizing local LLMs to dynamically balance node workloads based on real-time hardware metrics.
+### [RenderHive (Watch Product Overview)](https://drive.google.com/file/d/1LLefXSQDs88AYbzwRhdy5hWcZT6ipy7e/view?usp=sharing)
+**Django / Next.js / FastAPI / PySide / Local LLMs**  
+A hybrid distributed orchestration system. Features a scalable web backend and Next.js dashboard that intelligently schedules and manages PySide-based desktop worker nodes and custom DCC plugins (Maya/Houdini) using local AI models.
+
+*(Note: Source code is currently private under ITI institutional guidelines, but a full product overview video is available via the link above).*
+
+### [Rewayat Club - Digital Publishing Platform](https://rewayat.club/)  
+**Django / Nuxt.js / PostgreSQL / Redis / Flutter**  
+A high-traffic web and mobile publishing platform. Architected a modular Django backend and responsive Nuxt.js/Flutter frontend to deliver seamless content consumption, robust user management, and optimized database performance under heavy traffic loads.
 
 ---
 
